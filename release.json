@@ -1,0 +1,23 @@
+{
+  "tag_name": "v1.2.1",
+  "published_at": "2026-10-04T13:19:23Z",
+  "html_url": "https://github.com/jashd9528/ATSPM/releases/tag/v1.2.1",
+  "body": "托盘右键仅保留「打开 ATSPM」「退出 ATSPM」，单击托盘图标直接打开应用。原生托盘菜单和应用按钮文字水平、垂直居中。软件更新统一放在「设置 → 关于」：检查更新 → 更新软件，在线下载、签名与 MSI 校验通过后安装，成功后清理本次安装包并重新打开应用。保留已有用户数据；安装失败时保留诊断记录。",
+  "assets": [
+    {
+      "name": "ATSPM-1.2.1-x64.msi",
+      "size": 82804736,
+      "browser_download_url": "https://github.com/jashd9528/ATSPM/releases/download/v1.2.1/ATSPM-1.2.1-x64.msi"
+    },
+    {
+      "name": "SHA256SUMS.txt",
+      "size": 86,
+      "browser_download_url": "https://github.com/jashd9528/ATSPM/releases/download/v1.2.1/SHA256SUMS.txt"
+    },
+    {
+      "name": "update.json",
+      "size": 587,
+      "browser_download_url": "https://github.com/jashd9528/ATSPM/releases/download/v1.2.1/update.json"
+    }
+  ]
+}
