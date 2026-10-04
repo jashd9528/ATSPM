@@ -1,0 +1,39 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <meta name="description" content="下载 ATSPM Windows 桌面应用。查看最新版本、发布说明与应用内更新指南。">
+  <meta name="color-scheme" content="light dark">
+  <title>下载 ATSPM · Windows 桌面应用</title>
+  <link rel="icon" href="brand.svg" type="image/svg+xml">
+  <link rel="stylesheet" href="site.css">
+  <script type="module" src="site.mjs"></script>
+</head>
+<body>
+  <a class="skip" href="#downloads">跳到下载</a>
+  <header class="topbar">
+    <a class="wordmark" href="./"><img src="brand.svg" alt="" width="34" height="34">ATSPM<span>桌面工具，触手可及。</span></a>
+    <nav aria-label="全局导航"><a href="https://github.com/jashd9528/ATSPM" target="_blank" rel="noopener noreferrer">GitHub ↗</a><button id="theme" type="button" aria-label="切换深色主题" title="切换主题">◐</button></nav>
+  </header>
+  <div class="layout">
+    <aside><p class="nav-label">文档 / DOCS</p><nav aria-label="文档"><a href="#start">快速上手</a><a href="#updating">应用内更新</a><a class="selected" href="#downloads" aria-current="page">下载<span>↓</span></a><a href="#notes">发布说明</a></nav><div class="side-note"><span class="dot"></span> Windows 桌面版<br><small>轻点托盘，随时回来。</small></div></aside>
+    <main id="downloads">
+      <div class="eyebrow">ATSPM / DOWNLOADS</div>
+      <h1>你的工具，<br>现在就位<span>。</span></h1>
+      <p class="lead">下载 ATSPM，在桌面连接工具、管理工作。<br>保留熟悉的工作方式，把操作变得简单一点。</p>
+      <section class="release" aria-labelledby="release-heading">
+        <div class="release-top"><div><span class="badge"><span class="dot"></span> STABLE</span><h2 id="release-heading">下载最新版</h2><p id="version" class="muted" role="status">正在获取版本信息…</p></div><button id="refresh" class="subtle" type="button"><span aria-hidden="true">↻</span> 刷新版本信息</button></div>
+        <div class="download-grid">
+          <article class="download-card"><div class="platform"><svg viewBox="0 0 24 24" width="34" height="34" aria-hidden="true"><path fill="currentColor" d="M2 4.5 10.5 3v8H2zm10-1.8L22 1v10H12zM2 12.5h8.5v8L2 19zm10 0h10V23l-10-1.8z"/></svg><div><h3>Windows</h3><p>x64 / AMD64</p></div><span class="format">MSI</span></div><dl><dt>安装文件</dt><dd id="filename">等待版本信息</dd><dt>文件大小</dt><dd id="size">—</dd></dl><a id="download" class="primary disabled" aria-disabled="true"><span aria-hidden="true">↓</span> 下载 Windows 版</a><p class="micro">Windows Installer 安装包 · 保留用户数据</p></article>
+          <article class="update-card"><span class="step">ALREADY INSTALLED?</span><h3>已有 ATSPM？<br>在应用里，轻松更新。</h3><p>打开「设置 → 关于」，点击「检查更新」。发现新版本后，按钮会变成「更新软件」。</p><a href="#updating">了解在线更新 <span aria-hidden="true">↗</span></a><div class="mini-flow"><span>检查</span><i>→</i><span>下载</span><i>→</i><span>更新</span></div></article>
+        </div>
+        <p id="release-status" class="release-status" role="status" aria-live="polite"></p>
+      </section>
+      <section id="notes" class="notes" aria-labelledby="notes-heading"><div class="section-head"><h2 id="notes-heading">发布说明</h2><a id="release-link" href="https://github.com/jashd9528/ATSPM/releases" target="_blank" rel="noopener noreferrer">查看全部版本 ↗</a></div><p id="release-notes">正在读取发布说明。</p></section>
+      <div class="guide-grid"><section id="start"><span class="step">01 / GET STARTED</span><h2>安装，打开，开始。</h2><p>下载安装包并按照安装向导完成安装。打开 ATSPM 后可在设置中配置所需工具。单击托盘图标返回应用；右键菜单提供「打开 ATSPM」与「退出 ATSPM」。</p></section><section id="updating"><span class="step">02 / STAY UP TO DATE</span><h2>更新只用一个按钮。</h2><p>检查更新不会自动安装。点击「更新软件」后，应用会下载并校验新版安装包，再交给 Windows Installer 更新。安装成功后会清理本次安装包并重新打开应用。</p><p class="muted">更新前请保存工作并结束正在执行的任务。安装失败时保留安装包和诊断记录。</p></section></div>
+    </main>
+  </div>
+  <footer><a class="wordmark" href="./">ATSPM</a><span>让工作留在手边。</span><a href="https://github.com/jashd9528/ATSPM/issues" target="_blank" rel="noopener noreferrer">反馈问题 ↗</a></footer>
+</body>
+</html>

@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="0 0 256 256">
+  <title>ATSPM — 白发小伙伴</title>
+  <desc>Original vector mascot: a round-faced white-haired chibi companion with blue eyes, a little sky-blue hair clip and a soft cream-blue coat.</desc>
+  <rect x="8" y="8" width="240" height="240" rx="60" fill="#DDEAF4"/>
+  <circle cx="66" cy="55" r="33" fill="#EFF6FC"/>
+  <circle cx="207" cy="213" r="32" fill="#C6DCEB"/>
+  <ellipse cx="127" cy="106" rx="89" ry="83" fill="#F9FBFD" stroke="#596981" stroke-width="5"/>
+  <polygon points="44,93 35,156 48,187 68,176 64,210 85,191 92,96" fill="#EDF2F8" stroke="#596981" stroke-width="4"/>
+  <polygon points="207,92 221,153 208,185 193,175 193,209 173,192 165,96" fill="#E6EDF5" stroke="#596981" stroke-width="4"/>
+  <ellipse cx="128" cy="233" rx="65" ry="40" fill="#8FBAD4" stroke="#596981" stroke-width="4"/>
+  <polygon points="96,204 127,222 159,204 170,221 145,245 112,245 85,220" fill="#F8FAFE"/>
+  <rect x="111" y="177" width="34" height="39" rx="14" fill="#FFE9DF"/>
+  <ellipse cx="66" cy="137" rx="12" ry="19" fill="#FFE9DF" stroke="#596981" stroke-width="4"/>
+  <ellipse cx="190" cy="137" rx="12" ry="19" fill="#FFE9DF" stroke="#596981" stroke-width="4"/>
+  <ellipse cx="128" cy="137" rx="68" ry="64" fill="#FFF0E6" stroke="#596981" stroke-width="4"/>
+  <polygon points="58,119 55,90 69,61 99,47 136,40 171,49 194,70 201,111 176,91 180,122 151,99 132,72 124,112 98,95 74,123 81,85" fill="#FBFCFE" stroke="#596981" stroke-width="4"/>
+  <polygon points="83,75 106,55 136,49 165,58 126,55 108,75 112,94 97,85" fill="#FFFFFF"/>
+  <polygon points="58,108 76,91 72,143 79,170 63,159" fill="#F9FBFD"/>
+  <polygon points="180,95 197,107 194,157 181,174 185,142" fill="#EDF2F8"/>
+  <ellipse cx="99" cy="143" rx="13" ry="18" fill="#455775"/>
+  <ellipse cx="157" cy="143" rx="13" ry="18" fill="#455775"/>
+  <ellipse cx="99" cy="149" rx="9" ry="10" fill="#89B5CE"/>
+  <ellipse cx="157" cy="149" rx="9" ry="10" fill="#89B5CE"/>
+  <ellipse cx="99" cy="141" rx="6" ry="10" fill="#3F526F"/>
+  <ellipse cx="157" cy="141" rx="6" ry="10" fill="#3F526F"/>
+  <circle cx="95" cy="136" r="4" fill="#FFFFFF"/>
+  <circle cx="153" cy="136" r="4" fill="#FFFFFF"/>
+  <circle cx="103" cy="151" r="2.5" fill="#DFF5FC"/>
+  <circle cx="161" cy="151" r="2.5" fill="#DFF5FC"/>
+  <polyline points="86,130 96,125 107,129" fill="none" stroke="#596981" stroke-width="3"/>
+  <polyline points="145,129 157,125 169,130" fill="none" stroke="#596981" stroke-width="3"/>
+  <ellipse cx="82" cy="163" rx="12" ry="6" fill="#F3C1C1"/>
+  <ellipse cx="174" cy="163" rx="12" ry="6" fill="#F3C1C1"/>
+  <polyline points="120,174 127,178 135,174" fill="none" stroke="#AA7280" stroke-width="3"/>
+  <polygon points="180,65 190,75 180,85 170,75" fill="#8CBAD4" stroke="#F9FCFF" stroke-width="3"/>
+  <circle cx="190" cy="91" r="4" fill="#8CBAD4"/>
+  <polygon points="220,27 223,35 231,38 223,41 220,49 217,41 209,38 217,35" fill="#FFFFFF"/>
+  <circle cx="33" cy="208" r="4" fill="#FFFFFF"/>
+</svg>
