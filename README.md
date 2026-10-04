@@ -1,8 +1,10 @@
 # ATSPM
 
-Windows 桌面应用下载站。
+ATSPM 文档与下载站。快速上手正文、导航顺序和下载布局参照用户指定页面，产品名替换为 ATSPM，GitHub 和安装包链接指向本仓库。
 
 - 下载网页：https://jashd9528.github.io/ATSPM/
+- 下载页：https://jashd9528.github.io/ATSPM/docs/downloads/
+- 快速上手：https://jashd9528.github.io/ATSPM/docs/
 - 安装包与历史版本：https://github.com/jashd9528/ATSPM/releases
 - 在应用内更新：设置 → 关于 → 检查更新 → 更新软件。
 
